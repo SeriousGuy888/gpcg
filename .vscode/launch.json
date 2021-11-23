@@ -15,8 +15,8 @@
             "name": "Launch GPCGApp",
             "request": "launch",
             "mainClass": "src.GPCG.GPCGApp",
-            "projectName": "GPCGApp_f2759cb0",
-            "vmArgs": "--module-path ~/javafx-sdk-17.0.1/lib --add-modules javafx.controls,javafx.fxml"
+            // "projectName": "GPCGApp_f2759cb0",
+            "vmArgs": "--module-path D:\\ProgramData\\JavaLibraries\\javafx-sdk-17.0.1\\lib --add-modules javafx.controls,javafx.fxml"
         }
     ]
 }
